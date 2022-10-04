@@ -1,0 +1,10 @@
+.NaviMain{
+    
+    display: flex;
+    flex-direction: row;
+    
+    height: 700px;
+    width: 1000px;
+    justify-content: space-around;
+    
+}

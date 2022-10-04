@@ -1,0 +1,9 @@
+.Navigation{
+    display: flex;
+    background-color: aquamarine;
+    height: 350px;
+    width: 10px;
+    flex: 1;
+    margin: 10px;
+    border: 1px solid black;
+}

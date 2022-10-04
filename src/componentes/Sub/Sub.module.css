@@ -1,0 +1,10 @@
+.Sub{
+    display: flex;
+    flex-direction: row;
+    
+    margin: 0px 0px 0px 0px;
+    justify-content: space-around;
+    height: 310px;
+    
+
+}

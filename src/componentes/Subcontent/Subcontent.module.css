@@ -1,0 +1,11 @@
+.Subcontent{
+    display: flex;
+    flex-direction: row;
+    background-color: lightsalmon;
+    height: 300px;
+    width: 30px;
+    margin: 10px 10px 0px 10px;
+    flex: 3;
+    border: 1px solid black;
+    
+}

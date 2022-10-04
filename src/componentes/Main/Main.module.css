@@ -1,0 +1,10 @@
+.Main{
+    background-color: brown;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    flex: 5;
+    margin: 10px 10px -10px 0px;
+
+}
